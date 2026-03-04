@@ -26,15 +26,15 @@ My work focuses on bridging the gap between AI research and real-world operation
 <p> • Industrial control integration
 
 **Outcome**
-<p> Improved production efficiency and reduced operational downtime.
-<p**Predictive Maintenance ML Platform**
-<p> • Predictive maintenance system using machine learning models to detect equipment anomalies and predict failures.
-<p> • Technologies
-<p> • Python
-<p> • Scikit-learn
-<p> • TensorFlow
-<p> • Time-series forecasting
-<p> • Industrial sensor analytics
+<p> Improved production efficiency and reduced operational downtime. </p>
+**Predictive Maintenance ML Platform**
+<p> • Predictive maintenance system using machine learning models to detect equipment anomalies and predict failures. </p>
+ **Technologies**
+<p> • Python </p>
+<p> • Scikit-learn </p>
+<p> • TensorFlow </p>
+<p> • Time-series forecasting </p>
+<p> • Industrial sensor analytics </p>
 
 # Computer Vision Industrial Monitoring
 **Computer vision systems applied to industrial process monitoring and anomaly detection.**
