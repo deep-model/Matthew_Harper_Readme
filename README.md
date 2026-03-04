@@ -9,13 +9,12 @@ I develop artificial intelligence and machine learning systems deployed in real-
 My work focuses on bridging the gap between AI research and real-world operational systems, building intelligent platforms that improve reliability, safety, and production efficiency.
 
 Areas of Expertise
-<p>
-• Industrial AI & Predictive Maintenance </p> 
-• Machine Learning & Deep Learning Systems <brk>
-• Computer Vision for Process Optimization <brk>
-• Autonomous Production & Control Systems <brk>
-• Reliability-Centered Engineering <brk>
-• Data Platforms for Industrial Analytics <brk>
+<p> • Industrial AI & Predictive Maintenance </p> 
+<p> • Machine Learning & Deep Learning Systems <brk>
+<p> • Computer Vision for Process Optimization <brk>
+<p> • Autonomous Production & Control Systems <brk>
+<p> • Reliability-Centered Engineering <brk>
+<p> • Data Platforms for Industrial Analytics <brk>
 
 Selected AI / ML Projects
 Smart Lift – AI Production Optimization
