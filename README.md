@@ -1,6 +1,6 @@
 # Matthew Harper
 ## Career Readme
-## Electrical Engineer | Computer Scientist | Data Scientist | Automation | Electrical | AI/ML
+## Electrical Engineer | Computer Scientist | Data Scientist 
 
 ## Applied Artificial Intelligence | Industrial Automation | Reliability Engineering
 
