@@ -10,7 +10,7 @@ My work focuses on bridging the gap between AI research and real-world operation
 
 Areas of Expertise
 
-• Industrial AI & Predictive Maintenance
+• Industrial AI & Predictive Maintenance /n
 • Machine Learning & Deep Learning Systems
 • Computer Vision for Process Optimization
 • Autonomous Production & Control Systems
