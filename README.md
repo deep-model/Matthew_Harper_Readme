@@ -86,6 +86,6 @@ Organizations I have worked with include:
 
 # Connect
 
-LinkedIn: [(https://www.linkedin.com/in/mat1hewharper)]
-Website: [(https://www.matthewharper.info/)]
-Email: matthew.harper@mail.com
+## LinkedIn: [(https://www.linkedin.com/in/mat1hewharper)]
+## Website: [(https://www.matthewharper.info/)]
+## Email: matthew.harper@mail.com
