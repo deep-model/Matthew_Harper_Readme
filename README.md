@@ -4,9 +4,10 @@
 
 ## Applied Artificial Intelligence | Industrial Automation | Reliability Engineering
 
-### I develop artificial intelligence and machine learning systems deployed in real-world industrial environments including energy, aerospace, and advanced manufacturing.
+I develop artificial intelligence and machine learning systems deployed in real-world industrial environments including energy, aerospace, and advanced manufacturing.
 
-### My work focuses on bridging the gap between AI research and real-world operational systems, building intelligent platforms that improve reliability, safety, and production efficiency.
+## Bridging the Gap between Theoretical and Real-World Applications
+My work focuses on bridging the gap between AI research and real-world operational systems, building intelligent platforms that improve reliability, safety, and production efficiency.
 
 # Areas of Expertise
 <p> • Industrial AI & Predictive Maintenance </p> 
