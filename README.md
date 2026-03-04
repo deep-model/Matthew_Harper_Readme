@@ -27,7 +27,7 @@ My work focuses on bridging the gap between AI research and real-world operation
 
 **Outcome**
 <p> Improved production efficiency and reduced operational downtime.
-<p> **Predictive Maintenance ML Platform**
+<p**Predictive Maintenance ML Platform**
 <p> • Predictive maintenance system using machine learning models to detect equipment anomalies and predict failures.
 <p> • Technologies
 <p> • Python
