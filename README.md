@@ -20,7 +20,8 @@ My work focuses on bridging the gap between AI research and real-world operation
 # Selected AI / ML Projects
 <p> • Smart Lift – AI Production Optimization - Gas Injection for artificial lift optimization with gradient descent. 
 <p> • Smart Tank - AI Optimized Tank Level & Pressure Control with Predictive Analytics
-<p> • Data Center Utilization of Heterogeneous GPU Clusters [View Project](https://github.com/deep-model/Data_Center_Utilization_of_Heterogeneous_GPU_Clusters)
+<p> • Data Center Utilization of Heterogeneous GPU Clusters 
+           (https://github.com/deep-model/Data_Center_Utilization_of_Heterogeneous_GPU_Clusters)
 <p> • AI/ML Assisted Reliability Centered Maintenance Classification [View Project](https://github.com/deep-model/AI-ML_Assisted_Reliability_Classification)
 <p> • Computer Vision with Multi-stage Canny-Edge Detection [View Project](https://github.com/deep-model/Computer_Vision_with_Canny-Edge_Detection)
 <p> • Automatic Speech Recognition - End-toEnd ASR with Nvidia NeMo Toolkit [View Project](https://github.com/deep-model/Automatic_Speech_Recognition)
