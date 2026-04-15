@@ -1,8 +1,10 @@
 # Matthew Harper
 ## About Me
+
+Innovative engineering leader specializing in AI-driven optimization, reliability engineering, and autonomous solutions, leading cross-functional teams at scale. Proven ability to lead project teams in delivering transformative solutions, leveraging innovative practices to strengthen reliability, scalability, and feature delivery. Deep expertise in AI/ML, decision science, and system integration, with hands-on leadership across full lifecycle project execution, commissioning, operations, maintenance, and team development. Experienced in research, development, and exploration of new artificial intelligence techniques and applications bridging the gap between theoretical ideas into real-world solutions.
 ## Electrical Engineer | Computer Scientist | Data Scientist 
 
-## Applied Artificial Intelligence | Industrial Automation | Reliability Engineering
+## Areas of Interest - Applied Artificial Intelligence | Industrial Automation | Asset Integrity & Reliability Engineering
 
 I develop artificial intelligence and machine learning systems deployed in real-world industrial environments including energy, aerospace, and advanced manufacturing.
 
