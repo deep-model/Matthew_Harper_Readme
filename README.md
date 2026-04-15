@@ -23,14 +23,15 @@ My work focuses on bridging the gap between AI research and real-world operation
 <p> • Smart Lift – AI Production Optimization - Gas Injection for artificial lift optimization with gradient descent. 
 <p> • Smart Tank - AI Optimized Tank Level & Pressure Control with Predictive Analytics
 <p> • Computer Vision Based Asset Monitoring with HSV Induced Segmentation </p>
-[Veiw Entire Project List](https://github.com/deep-model?tab=repositories)
-<p align="left"> [Veiw Entire Project List](https://github.com/deep-model/Computer-Vision-Based-Asset-Monitoring-with-HSV-Image-Segmentation/tree/main) </p>
+ [Veiw Entire Project List](https://github.com/deep-model/Computer-Vision-Based-Asset-Monitoring-with-HSV-Image-Segmentation/tree/main) 
  <p align="left">
 <img width="400" height="300" alt="image" src="https://github.com/deep-model/HSV-Induced-Image-Segmentation-for-Real-Time-Asset-Monitoring/blob/main/2-%20HOT%20Extraced%20Saturation.png"/>
 <img width="400" height="300" alt="image" src="https://github.com/deep-model/HSV-Induced-Image-Segmentation-for-Real-Time-Asset-Monitoring/blob/main/7%20-%20Tank%20Asset%20Integrity%20Monitoring%20with%20HSV%20Induced%20Segmentation.png"/>
 </p>
 <p> • Data Center Utilization of Heterogeneous GPU Clusters [(https://github.com/deep-model/Data_Center_Utilization_of_Heterogeneous_GPU_Clusters)] </p>
 <p> • AI/ML Assisted Reliability Centered Maintenance Classification [(https://github.com/deep-model/AI-ML_Assisted_Reliability_Classification)]
+<p> • Computer Vision Based Pipeline Monitoring with HSV Induced Segmentation (https://github.com/deep-model/Computer-Vision-Based-Pipeline-Monitoring-with-HSV-Induced-Segmentation)
+ <img width="400" height="300" alt="image" src="https://github.com/deep-model/Computer-Vision-Based-Pipeline-Monitoring-with-HSV-Induced-Segmentation/blob/main/HSV%20Induced%20Pipeline%20Hot%20Spot%20Detection.png"/>
 <p> • Computer Vision with Multi-stage Canny-Edge Detection [(https://github.com/deep-model/Computer_Vision_with_Canny-Edge_Detection)]
 <p> • Automatic Speech Recognition - End-toEnd ASR with Nvidia NeMo Toolkit [(https://github.com/deep-model/Automatic_Speech_Recognition)]
 
