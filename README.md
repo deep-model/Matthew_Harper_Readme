@@ -11,7 +11,7 @@ Innovative engineering leader specializing in AI-driven optimization, reliabilit
 
 ## Areas of Interest 
 
-### Applied Artificial Intelligence | Industrial Automation | Asset Integrity & Reliability Engineering
+## Applied Artificial Intelligence | Industrial Automation | Asset Integrity & Reliability Engineering
 
 I enjoy developing AI/ML systems deployed in real-world industrial environments including data, energy, aerospace, and advanced manufacturing.
 
