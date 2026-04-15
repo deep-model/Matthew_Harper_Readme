@@ -29,6 +29,8 @@ My work focuses on bridging the gap between AI research and real-world operation
 <img width="400" height="300" alt="image" src="https://github.com/deep-model/HSV-Induced-Image-Segmentation-for-Real-Time-Asset-Monitoring/blob/main/7%20-%20Tank%20Asset%20Integrity%20Monitoring%20with%20HSV%20Induced%20Segmentation.png"/>
 </p>
 <p> • Data Center Utilization of Heterogeneous GPU Clusters [(https://github.com/deep-model/Data_Center_Utilization_of_Heterogeneous_GPU_Clusters)] </p>
+<p align="left">
+   <img width="400" height="300" alt="image" src="https://github.com/deep-model/Matthew_Harper_Readme/blob/main/resource%20allocation.png"/>
 <p> • AI/ML Assisted Reliability Centered Maintenance Classification [(https://github.com/deep-model/AI-ML_Assisted_Reliability_Classification)]
 <p> • Computer Vision Based Pipeline Monitoring with HSV Induced Segmentation (https://github.com/deep-model/Computer-Vision-Based-Pipeline-Monitoring-with-HSV-Induced-Segmentation)
   <p align="left">
